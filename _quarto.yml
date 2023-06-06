@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Dillon Sparks"
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +11,7 @@ website:
       - projects.qmd
     tools:
       - icon: twitter
-        href: https://twitter.com/
+        href: https://www.linkedin.com/in/dillonsparks1/
       - icon: github
         menu:
           - text: View Source
