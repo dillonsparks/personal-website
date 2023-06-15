@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: alma
   template: broadside
-  image: img/profile.jpeg
+  image: img/IMG_2895_Original.jpg
   links:
     - icon: twitter
       text: twitter
@@ -13,23 +13,24 @@ about:
       href: https://github.com
 ---
 
-### Insert little about me here.
+### Get to know a little about me
 
 :::{#alma}
 
-Alma Mater is the statue on the steps leading up to Low Library at Columbia University.
+
+My name is Dillon Sparks and I am an aspiring data scientist. My interest in this field was born from my affinity for numbers and the freedom to apply data science to any domain that I am passionate about.
 
 ## Education
 
 Georgetown University | Washington, DC
-BS in Mathematics | Sept 2017 - June 2021
+B.S in Mathematics | Sept 2017 - June 2021
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+Columbia University, School of Engineering and Applied Sciences | New York, NY
+M.S in Data Science | Aug 2022 - Dec 2023
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Columbia Women's Basketball Team | Data & Analytics Team Member | September 2022 - present
 
 GeoScynce | Chief Analyst | Sept 2012 - April 2018
 
