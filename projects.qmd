@@ -1,8 +1,25 @@
 ---
 title: "Projects"
+about: 
+  id: alma
+  template: solana
+  image: img/profile.jpeg
+  links: 
+    - icon: share
+      text: Project 1
+      href: https://dillonsparks.github.io/education/
+    - icon: github
+      text: Project 2
+      href: https://dillonsparks.github.io/education/
+    - icon: share
+      text: Project 3
+      href: https://github.com/dillonsparks/fruit
 ---
 
 ## Project 1
+links: https://dillonsparks.github.io/education/
+
+* ^ doesn't work yet for some reason *
 
 ## Project 2
 
