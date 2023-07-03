@@ -17,10 +17,10 @@ about:
 ---
 
 ## Project 1
-links: https://dillonsparks.github.io/education/
-
-* ^ doesn't work yet for some reason *
+Education project description
 
 ## Project 2
+DSI Scholars & SEED data 
 
 ## Project 3
+(find a new project or maybe do an NBA project)
