@@ -47,5 +47,33 @@
     "title": "About Me",
     "section": "",
     "text": "Columbia Women’s Basketball Team | Data & Analytics Team Member | September 2022 - present\nJ.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Intern | Jun 2023 - present"
+  },
+  {
+    "objectID": "personal_projects.html",
+    "href": "personal_projects.html",
+    "title": "Personal Projects",
+    "section": "",
+    "text": "Education project description"
+  },
+  {
+    "objectID": "personal_projects.html#project-1",
+    "href": "personal_projects.html#project-1",
+    "title": "Personal Projects",
+    "section": "",
+    "text": "Education project description"
+  },
+  {
+    "objectID": "personal_projects.html#project-2",
+    "href": "personal_projects.html#project-2",
+    "title": "Personal Projects",
+    "section": "Project 2",
+    "text": "Project 2\nDSI Scholars & SEED data"
+  },
+  {
+    "objectID": "personal_projects.html#project-3",
+    "href": "personal_projects.html#project-3",
+    "title": "Personal Projects",
+    "section": "Project 3",
+    "text": "Project 3\n(find a new project or maybe do an NBA project)"
   }
 ]

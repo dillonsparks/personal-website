@@ -1,0 +1,26 @@
+---
+title: "Personal Projects"
+about: 
+  id: alma
+  template: solana
+  image: img/profile.jpeg
+  links: 
+    - icon: share
+      text: Project 1
+      href: https://dillonsparks.github.io/education/
+    - icon: github
+      text: Project 2
+      href: https://dillonsparks.github.io/education/
+    - icon: share
+      text: Project 3
+      href: https://github.com/dillonsparks/fruit
+---
+
+## Project 1
+Education project description
+
+## Project 2
+DSI Scholars & SEED data 
+
+## Project 3
+(find a new project or maybe do an NBA project)
