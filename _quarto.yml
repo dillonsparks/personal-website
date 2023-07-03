@@ -11,12 +11,10 @@ website:
       - projects.qmd
       - personal_projects.qmd
     tools:
-      - icon: twitter
-        href: https://www.linkedin.com/in/dillonsparks1/
       - icon: github
         menu:
-          - text: View Source
-            url:  https://github.com/YOURUSERNAME/YOURREPO
+          - text: LinkedIn
+            url:  https://www.linkedin.com/in/dillonsparks1/
 
 format:
   html:
