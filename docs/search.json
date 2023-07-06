@@ -53,27 +53,27 @@
     "href": "personal_projects.html",
     "title": "Personal Projects",
     "section": "",
-    "text": "Education project description"
+    "text": "Enter a few of my favorite things to cook and maybe even a favorite recipe here"
   },
   {
-    "objectID": "personal_projects.html#project-1",
-    "href": "personal_projects.html#project-1",
+    "objectID": "personal_projects.html#cooking",
+    "href": "personal_projects.html#cooking",
     "title": "Personal Projects",
     "section": "",
-    "text": "Education project description"
+    "text": "Enter a few of my favorite things to cook and maybe even a favorite recipe here"
   },
   {
-    "objectID": "personal_projects.html#project-2",
-    "href": "personal_projects.html#project-2",
+    "objectID": "personal_projects.html#photography",
+    "href": "personal_projects.html#photography",
     "title": "Personal Projects",
-    "section": "Project 2",
-    "text": "Project 2\nDSI Scholars & SEED data"
+    "section": "Photography",
+    "text": "Photography\nInsert a few of my favorite pictures here"
   },
   {
-    "objectID": "personal_projects.html#project-3",
-    "href": "personal_projects.html#project-3",
+    "objectID": "personal_projects.html#something",
+    "href": "personal_projects.html#something",
     "title": "Personal Projects",
-    "section": "Project 3",
-    "text": "Project 3\n(find a new project or maybe do an NBA project)"
+    "section": "Something",
+    "text": "Something"
   }
 ]
