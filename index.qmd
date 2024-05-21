@@ -18,7 +18,7 @@ about:
 :::{#alma}
 
 
-My name is Dillon Sparks and I am an aspiring data scientist with a focus in using data to promote educational equity. This website is comprised of my academic accomplishments, professional endeavors, and hobbies/interests. I carefully curated this space to give prospective employers and friends a peek into different areas of my life. 
+My name is Dillon Sparks and I am an aspiring data scientist with a focus in using data to promote educational equity. This website is comprised of my academic accomplishments, professional endeavors, and hobbies/interests. I carefully curated this space (using Quarto and R Markdown) to give prospective employers and friends a peek into different areas of my life. 
 
 ## Education
 
@@ -31,6 +31,10 @@ B.S in Mathematics | Sept 2017 - June 2021
 
 
 ## Experience
+
+
+
+
 
 Columbia Women's Basketball Team | Data & Analytics Team Member | Sept 2022 - present
 
