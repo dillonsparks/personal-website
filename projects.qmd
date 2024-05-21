@@ -8,19 +8,33 @@ about:
     - icon: share
       text: Project 1
       href: https://dillonsparks.github.io/education/
-    - icon: github
+    - icon: share
       text: Project 2
       href: https://dillonsparks.github.io/education/
     - icon: share
       text: Project 3
       href: https://github.com/dillonsparks/fruit
+    - icon: share 
+      text: Project 4
+      href: https://github.com/dillonsparks/fruit
 ---
 
 ## Project 1
 Education project description
+** clean it up and then link the final outcome ** 
+
 
 ## Project 2
 DSI Scholars & SEED data 
+** link published visualization ** 
+
 
 ## Project 3
-(find a new project or maybe do an NBA project)
+Project with Dr. Robbins about NYC education 
+
+
+## Project 4
+Capstone project 
+** reach out to AJ to see what I can publish ** 
+
+** need a project where I build and end to end pipeline/model ** 

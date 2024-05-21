@@ -3,7 +3,7 @@ title: "About Me"
 about:
   id: alma
   template: broadside
-  image: img/IMG_2895_Original.jpg
+  image: img/tlps-2257.jpg
   links:
     - icon: twitter
       text: twitter
@@ -18,21 +18,36 @@ about:
 :::{#alma}
 
 
-My name is Dillon Sparks and I am an aspiring data scientist. My interest in this field was born from my affinity for numbers and the freedom to apply data science to any domain that I am passionate about.
+My name is Dillon Sparks and I am an aspiring data scientist with a focus in using data to promote educational equity. This website is comprised of my academic accomplishments, professional endeavors, and hobbies/interests. I carefully curated this space to give prospective employers and friends a peek into different areas of my life. 
 
 ## Education
 
-Georgetown University | Washington, DC
+Columbia University, School of Engineering and Applied Sciences | New York, NY |
+M.S in Data Science | Aug 2022 - Dec 2023
+
+Georgetown University | Washington, DC |
 B.S in Mathematics | Sept 2017 - June 2021
 
-Columbia University, School of Engineering and Applied Sciences | New York, NY
-M.S in Data Science | Aug 2022 - Dec 2023
+
 
 ## Experience
 
-Columbia Women's Basketball Team | Data & Analytics Team Member | September 2022 - present
+Columbia Women's Basketball Team | Data & Analytics Team Member | Sept 2022 - present
 
-J.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Intern | Jun 2023 - present
+J.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Summer Associate | Jun 2023 - Sep 2023
+
+Bridge to Enter Advanced Mathematics | College Support Coordinator | | Jul 2021 - Apr 2022
+
+Georgetown University Center for Social Justice | After School Kids (A.S.K.) Program: Youth Justice Committee Coordinator | May 2019 - May 2021
+
+
+## Awards
+
+JPMorgan Columbia University Data Science Institute Master’s Diversity Fellowship (https://datascience.columbia.edu/news/2022/meet-the-class-of-2024-dillon-sparks-uses-data-to-promote-educational-equity/)
+
+Lena Landeggar Community Service Award (https://studentaffairs.georgetown.edu/landeggerserviceawards/)
+
+Lisa Burgoa (SFS '19) Award (https://csj.georgetown.edu/celebration/)
 
 :::
 

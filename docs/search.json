@@ -4,70 +4,84 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Education project description"
+    "text": "Education project description ** clean it up and then link the final outcome **"
   },
   {
     "objectID": "projects.html#project-1",
     "href": "projects.html#project-1",
     "title": "Projects",
     "section": "",
-    "text": "Education project description"
+    "text": "Education project description ** clean it up and then link the final outcome **"
   },
   {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2\nDSI Scholars & SEED data"
+    "text": "Project 2\nDSI Scholars & SEED data ** link published visualization **"
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3\n(find a new project or maybe do an NBA project)"
+    "text": "Project 3\nProject with Dr. Robbins about NYC education"
+  },
+  {
+    "objectID": "projects.html#project-4",
+    "href": "projects.html#project-4",
+    "title": "Projects",
+    "section": "Project 4",
+    "text": "Project 4\nCapstone project ** reach out to AJ to see what I can publish **\n** need a project where I build and end to end pipeline/model **"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "My name is Dillon Sparks and I am an aspiring data scientist. My interest in this field was born from my affinity for numbers and the freedom to apply data science to any domain that I am passionate about.\n\n\nGeorgetown University | Washington, DC B.S in Mathematics | Sept 2017 - June 2021\nColumbia University, School of Engineering and Applied Sciences | New York, NY M.S in Data Science | Aug 2022 - Dec 2023\n\n\n\nColumbia Women’s Basketball Team | Data & Analytics Team Member | September 2022 - present\nJ.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Intern | Jun 2023 - present\n\n\n  \n  \n  \n    \n     twitter\n  \n  \n    \n     Github"
+    "text": "My name is Dillon Sparks and I am an aspiring data scientist with a focus in using data to promote educational equity. This website is comprised of my academic accomplishments, professional endeavors, and hobbies/interests. I carefully curated this space to give prospective employers and friends a peek into different areas of my life.\n\n\nColumbia University, School of Engineering and Applied Sciences | New York, NY | M.S in Data Science | Aug 2022 - Dec 2023\nGeorgetown University | Washington, DC | B.S in Mathematics | Sept 2017 - June 2021\n\n\n\nColumbia Women’s Basketball Team | Data & Analytics Team Member | Sept 2022 - present\nJ.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Summer Associate | Jun 2023 - Sep 2023\nBridge to Enter Advanced Mathematics | College Support Coordinator | | Jul 2021 - Apr 2022\nGeorgetown University Center for Social Justice | After School Kids (A.S.K.) Program: Youth Justice Committee Coordinator | May 2019 - May 2021\n\n\n\nJPMorgan Columbia University Data Science Institute Master’s Diversity Fellowship (https://datascience.columbia.edu/news/2022/meet-the-class-of-2024-dillon-sparks-uses-data-to-promote-educational-equity/)\nLena Landeggar Community Service Award (https://studentaffairs.georgetown.edu/landeggerserviceawards/)\nLisa Burgoa (SFS ’19) Award (https://csj.georgetown.edu/celebration/)\n\n\n  \n  \n  \n    \n     twitter\n  \n  \n    \n     Github"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "About Me",
     "section": "",
-    "text": "Georgetown University | Washington, DC B.S in Mathematics | Sept 2017 - June 2021\nColumbia University, School of Engineering and Applied Sciences | New York, NY M.S in Data Science | Aug 2022 - Dec 2023"
+    "text": "Columbia University, School of Engineering and Applied Sciences | New York, NY | M.S in Data Science | Aug 2022 - Dec 2023\nGeorgetown University | Washington, DC | B.S in Mathematics | Sept 2017 - June 2021"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "About Me",
     "section": "",
-    "text": "Columbia Women’s Basketball Team | Data & Analytics Team Member | September 2022 - present\nJ.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Intern | Jun 2023 - present"
+    "text": "Columbia Women’s Basketball Team | Data & Analytics Team Member | Sept 2022 - present\nJ.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Summer Associate | Jun 2023 - Sep 2023\nBridge to Enter Advanced Mathematics | College Support Coordinator | | Jul 2021 - Apr 2022\nGeorgetown University Center for Social Justice | After School Kids (A.S.K.) Program: Youth Justice Committee Coordinator | May 2019 - May 2021"
+  },
+  {
+    "objectID": "index.html#awards",
+    "href": "index.html#awards",
+    "title": "About Me",
+    "section": "",
+    "text": "JPMorgan Columbia University Data Science Institute Master’s Diversity Fellowship (https://datascience.columbia.edu/news/2022/meet-the-class-of-2024-dillon-sparks-uses-data-to-promote-educational-equity/)\nLena Landeggar Community Service Award (https://studentaffairs.georgetown.edu/landeggerserviceawards/)\nLisa Burgoa (SFS ’19) Award (https://csj.georgetown.edu/celebration/)"
   },
   {
     "objectID": "personal_projects.html",
     "href": "personal_projects.html",
     "title": "Personal Projects",
     "section": "",
-    "text": "Enter a few of my favorite things to cook and maybe even a favorite recipe here"
+    "text": "** Need to figure out how to insert pictures in individual sections here"
   },
   {
     "objectID": "personal_projects.html#cooking",
     "href": "personal_projects.html#cooking",
     "title": "Personal Projects",
-    "section": "",
-    "text": "Enter a few of my favorite things to cook and maybe even a favorite recipe here"
+    "section": "Cooking",
+    "text": "Cooking\nEnter a few of my favorite things to cook and maybe even a favorite recipe here"
   },
   {
     "objectID": "personal_projects.html#photography",
     "href": "personal_projects.html#photography",
     "title": "Personal Projects",
     "section": "Photography",
-    "text": "Photography\nInsert a few of my favorite pictures here"
+    "text": "Photography\nOne of my favorite hobbies is taking pictures of family and friends. I enjoy photography because it is a great way to record history and savor memories.\n** one from JA ** ** one from SF ** ** one more random one **"
   },
   {
     "objectID": "personal_projects.html#something",

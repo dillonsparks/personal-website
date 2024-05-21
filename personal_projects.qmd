@@ -6,12 +6,19 @@ about:
   image: img/profile.jpeg
 ---
 
+** Need to figure out how to insert pictures in individual sections here 
+
 ## Cooking
 Enter a few of my favorite things to cook and maybe even a favorite recipe here 
 
 
 ## Photography 
-Insert a few of my favorite pictures here 
+One of my favorite hobbies is taking pictures of family and friends. I enjoy photography because it is a great way to record history and savor memories. 
+
+** one from JA ** 
+** one from SF ** 
+** one more random one ** 
+
 
 
 ## Something
