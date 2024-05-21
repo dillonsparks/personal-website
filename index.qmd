@@ -18,7 +18,7 @@ about:
 :::{#alma}
 
 
-My name is Dillon Sparks and I am an aspiring data scientist with a focus in using data to promote educational equity. This website is comprised of my academic accomplishments, professional endeavors, and hobbies/interests. I carefully curated this space (using Quarto and R Markdown) to give prospective employers and friends a peek into different areas of my life. 
+My name is Dillon Sparks and I am an aspiring data scientist with a focus in data storytelling and using data to promote educational equity. This website is meant to share my professional mission, academic accomplishments, professional endeavors, and hobbies/interests. I carefully curated this space (using Quarto and R Markdown) to give prospective employers and friends a peek into different areas of my life. 
 
 ## Education
 
@@ -32,17 +32,18 @@ B.S in Mathematics | Sept 2017 - June 2021
 
 ## Experience
 
+R Forwards- R Foundation taskforce on women and other under-represented groups | Consultant | Remote| Feb 2024 - present
+
+Columbia University Department of Statistics | Staff Associate II | New York, NY| Apr 2024 - May 2024
+
+Columbia Women's Basketball Team | Data & Analytics Team Member | New York, NY| Aug 2022 - Apr 2024
+
+J.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Summer Associate | New York, NY| Jun 2023 - Sep 2023
 
 
+Bridge to Enter Advanced Mathematics | College Support Coordinator | New York, NY | Jul 2021 - Apr 2022
 
-
-Columbia Women's Basketball Team | Data & Analytics Team Member | Sept 2022 - present
-
-J.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Summer Associate | Jun 2023 - Sep 2023
-
-Bridge to Enter Advanced Mathematics | College Support Coordinator | | Jul 2021 - Apr 2022
-
-Georgetown University Center for Social Justice | After School Kids (A.S.K.) Program: Youth Justice Committee Coordinator | May 2019 - May 2021
+Georgetown University Center for Social Justice | After School Kids (A.S.K.) Program: Youth Justice Committee Coordinator | Washington, D.C. | May 2019 - May 2021
 
 
 ## Awards
@@ -55,4 +56,6 @@ Lisa Burgoa (SFS '19) Award (https://csj.georgetown.edu/celebration/)
 
 :::
 
-### This content appears below the formatted about page content.
+### My "why"
+
+** Include a paragraph or two here about why I'm actually invested in data science & tie it back to education, etc. It should use similar language to that already in my personal statements ** 

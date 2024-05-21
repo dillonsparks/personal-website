@@ -10,7 +10,7 @@ about:
       href: https://dillonsparks.github.io/education/
     - icon: share
       text: Project 2
-      href: https://dillonsparks.github.io/education/
+      href: https://datascience.columbia.edu/research/columbia-dsi-scholars/
     - icon: share
       text: Project 3
       href: https://github.com/dillonsparks/fruit
@@ -26,7 +26,7 @@ Education project description
 
 ## Project 2
 DSI Scholars & SEED data 
-** link published visualization ** 
+** add a short description of the project, focusing on specific skills and technologies I used ** 
 
 
 ## Project 3
