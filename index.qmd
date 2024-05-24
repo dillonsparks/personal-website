@@ -10,17 +10,33 @@ about:
       href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/dillonsparks
 ---
 
-### Get to know a little about me
 
 :::{#alma}
 
 
-My name is Dillon Sparks and I am an aspiring data scientist with a focus in data storytelling and using data to promote educational equity. This website is meant to share my professional mission, academic accomplishments, professional endeavors, and hobbies/interests. I carefully curated this space (using Quarto and R Markdown) to give prospective employers and friends a peek into different areas of my life. 
+My name is Dillon Sparks and I am an aspiring data scientist who specializes in data storytelling and using data to promote educational, social, and economic equity. I am currently searching for a data analyst or data scientist role in the social impact sector which will draw on my extensive nonprofit and education work experience in addition to my data analysis and visualization skills. This website is meant to share my professional mission, academic accomplishments, professional endeavors, and hobbies/interests. I carefully curated this space (using Quarto and R Markdown) to give prospective employers and friends a peek into different areas of my life. 
 
-## Education
+Outline of my "why"?
+
+* Growing up privileged/with additional resources/guidance that wasn't readily available to many peers 
+* Getting to Georgetown & working with the CSJ; seeing the impact of the school to prison pipeline. Saw how important access is 
+* Realizing that work on the ground is absolutely necessary but I want to impact even more students/young people by taking a quantitative approach to solving the same problems 
+* Found data science & learned more about other systemic inequities that I can use data science to disrupt/serve the same populations I want to serve 
+
+** Include a paragraph or two here about why I'm actually invested in data science & tie it back to education, etc. It should use similar language to that already in my personal statements ** 
+
+** Include a paragraph or two here about why I'm actually invested in data science & tie it back to education, etc. It should use similar language to that already in my personal statements ** 
+
+** Include a paragraph or two here about why I'm actually invested in data science & tie it back to education, etc. It should use similar language to that already in my personal statements ** 
+
+** Include a paragraph or two here about why I'm actually invested in data science & tie it back to education, etc. It should use similar language to that already in my personal statements ** 
+
+:::
+
+### Education
 
 Columbia University, School of Engineering and Applied Sciences | New York, NY |
 M.S in Data Science | Aug 2022 - Dec 2023
@@ -30,15 +46,17 @@ B.S in Mathematics | Sept 2017 - June 2021
 
 
 
-## Experience
+### Experience
 
-R Forwards- R Foundation taskforce on women and other under-represented groups | Consultant | Remote| Feb 2024 - present
+City Univeristy of New York School of Professional Studies | Non-Teaching Adjunct Faculty | New York, NY | 
 
-Columbia University Department of Statistics | Staff Associate II | New York, NY| Apr 2024 - May 2024
+R Forwards- R Foundation taskforce on women and other under-represented groups | Consultant | Remote | Feb 2024 - present
 
-Columbia Women's Basketball Team | Data & Analytics Team Member | New York, NY| Aug 2022 - Apr 2024
+Columbia University Department of Statistics | Staff Associate II | New York, NY | Apr 2024 - May 2024
 
-J.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Summer Associate | New York, NY| Jun 2023 - Sep 2023
+Columbia Women's Basketball Team | Data & Analytics Team Member | New York, NY | Aug 2022 - Apr 2024
+
+J.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Summer Associate | New York, NY | Jun 2023 - Sep 2023
 
 
 Bridge to Enter Advanced Mathematics | College Support Coordinator | New York, NY | Jul 2021 - Apr 2022
@@ -46,7 +64,7 @@ Bridge to Enter Advanced Mathematics | College Support Coordinator | New York, N
 Georgetown University Center for Social Justice | After School Kids (A.S.K.) Program: Youth Justice Committee Coordinator | Washington, D.C. | May 2019 - May 2021
 
 
-## Awards
+### Awards
 
 JPMorgan Columbia University Data Science Institute Master’s Diversity Fellowship (https://datascience.columbia.edu/news/2022/meet-the-class-of-2024-dillon-sparks-uses-data-to-promote-educational-equity/)
 
@@ -54,8 +72,8 @@ Lena Landeggar Community Service Award (https://studentaffairs.georgetown.edu/la
 
 Lisa Burgoa (SFS '19) Award (https://csj.georgetown.edu/celebration/)
 
-:::
+### CV 
 
-### My "why"
+Doesn't work for some reason-- need to update this
 
-** Include a paragraph or two here about why I'm actually invested in data science & tie it back to education, etc. It should use similar language to that already in my personal statements ** 
+!['Test'.](../Desktop/PII/Resumes/CV.pdf)
