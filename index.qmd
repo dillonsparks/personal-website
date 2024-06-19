@@ -33,7 +33,9 @@ B.S in Mathematics | Sept 2017 - June 2021
 ### Skills/Technologies
 
 Languages: R | Python | SQL |  HTML | LaTeX | CSS
+
 Skills: Data Analysis & Visualization | Statistical Inference | Data Wrangling | Machine Learning | NLP | Dashboarding
+
 Technologies: Git | Salesforce | Flourish | Tableau | PostgreSQL | Microsoft Excel | Microsoft Office
 
 
