@@ -1,28 +1,6 @@
 ---
-title: "About Me"
-about:
-  id: alma
-  template: broadside
-  image: img/tlps-2257.jpg
-  links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com/dillonsparks
+title: "My why"
 ---
-
-
-:::{#alma}
-
-
-My name is Dillon Sparks and I am an aspiring data scientist who uses data to tell stories that promote educational, racial, and economic equity. I am currently searching for a data analyst or data scientist role in the social impact sector to draw on my extensive nonprofit and education work experience in addition to my data analysis, visualization, and machine learning skills. I carefully curated this online space to share my professional mission, academic accomplishments, professional endeavors, and hobbies/interests with prospective employers and friends alike. The code for this website can be found on my [GitHub page](https://github.com/dillonsparks/personal-website)
-
-&nbsp;  
-&nbsp;  
-
-## My "why"
 
 My high school made a concerted effort to provide students with enrichment opportunities in hopes of increasing college enrollment. However, these opportunities were not accessible to most students because I went to an underfunded, majority Black, public school in Harlem, New York. With such limited room for error, only students deemed respectable in the eyes of donors were chosen to represent the school. I was a straight “A” student who made an intentional effort to build good rapport with all of my teachers, and thus, I had access to everything my school had to offer. Consequently, I internalized harmful ideas of respectability and deservingness. 
 
@@ -33,49 +11,3 @@ The lowest point in my academic career forced me to opt out of the false dichoto
 Furthermore, I began to study educational equity, the school-to-prison pipeline, and other relevant phenomena through my work at Georgetown’s Center for Social Justice (CSJ). I found statistical evidence explaining why I was one of few underrepresented minorities in all my math classes. This work fueled my interest in a quantitatively-focused career because it was the first time that numbers and data furthered my own understanding of my lived experiences. Prior to this discovery, I felt obligated to separate my love for math from my interest in social justice. A degree in math felt like an ultimatum between what I loved to do and investing in my community. Now, I consider both to be integral parts of my academic and career goals. 
 
 I recently received my Master’s in Data Science from Columbia University, where I gained the requisite skills and experience to succeed as a data scientist. Oftentimes, perseverance alone is insufficient to overcome the systemic barriers that historically marginalized groups face in everyday life. I will use data science to provide evidence of the need for more equitable systems, creating the community and opportunities that everyone deserves for the inevitable times when hard work falls short of being recognized. 
-:::
-
-### Education
-
-Columbia University, School of Engineering and Applied Sciences | New York, NY |
-M.S in Data Science | Aug 2022 - Dec 2023
-
-Georgetown University | Washington, DC |
-B.S in Mathematics | Sept 2017 - June 2021
-
-
-
-### Experience
-
-Bridge to Enter Advanced Mathematics | Summer Away Co-Site Director | New York, NY | Jun 2022 - Jul 2022, Jun 2024 - present
-
-City University of New York (CUNY) School of Professional Studies (SPS) | Non-Teaching Adjunct Faculty | New York, NY | Apr 2024 - present
-
-R Forwards- R Foundation taskforce on women and other under-represented groups | Consultant | Remote | Feb 2024 - present
-
-Columbia University Department of Statistics | Staff Associate II | New York, NY | Apr 2024 - May 2024
-
-Columbia Women's Basketball Team | Data & Analytics Team Member | New York, NY | Aug 2022 - Apr 2024
-
-J.P Morgan Chase, Artificial Intelligence Research Team | Data & Analytics Summer Associate | New York, NY | Jun 2023 - Sep 2023
-
-Bridge to Enter Advanced Mathematics | College Support Coordinator | New York, NY | Jul 2021 - Apr 2022
-
-Georgetown University Center for Social Justice | After School Kids (A.S.K.) Program: Youth Justice Committee Coordinator | Washington, D.C. | May 2019 - May 2021
-
-
-### Awards
-
-[JPMorgan Columbia University Data Science Institute Master’s Diversity Fellowship](https://datascience.columbia.edu/news/2022/meet-the-class-of-2024-dillon-sparks-uses-data-to-promote-educational-equity/)
-
-[Lena Landeggar Community Service Award](https://studentaffairs.georgetown.edu/landeggerserviceawards/)
-
-[Lisa Burgoa (SFS '19) Award](https://csj.georgetown.edu/celebration/)
-
-### CV 
-
-
-
-```{r echo=FALSE, out.height="750px", out.width='500px', fig.align = "center", fig.cap="Here is my resume for those who would like to hear more about my previous work experiences. Please feel free to download it if you'd like!"}
-knitr::include_graphics("img/CV.pdf")
-```

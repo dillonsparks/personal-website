@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - why.qmd
       - projects.qmd
       - personal_projects.qmd
     tools:

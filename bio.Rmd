@@ -1,0 +1,26 @@
+---
+title: "Untitled"
+author: "Dillon Sparks"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Dillon Sparks and I am an aspiring data scientist who specializes in data storytelling and using data to promote educational, social, and economic equity. I am currently searching for a data analyst or data scientist role which will draw on my extensive nonprofit and education work experience in addition to my data analysis and visualization skills. I carefully curated this space in Quarto and R to share my professional mission, academic accomplishments, professional endeavors, and hobbies/interests with prospective employers and friends alike.
+
+Outline of my "why"?
+
+\*
+
+I have had an affinity for numbers for as long as I can remember. My father used to send me to elementary school with extracurricular math worksheets and I happily completed them in the lunch room at 7 in the morning while my friends traded Pokémon cards. I am extremely fortunate because my parents fostered my mathematical curiosity in a way that challenged me enough to stick with it. However, every kid does not grow up with the parental guidance, privilege, and resources that I did.
+
+My freshman year at Georgetown was fundamental to my professional mission in an unexpected way. I wanted money to go out on the weekends and I heard from a friend that Georgetown's Center for Social Justice (CSJ) was hiring. I applied, interviewed, and was onboarded a week later with little to no thought. Before I knew it, I was working nearly 40 hours a week, actively contributing to the After School Kid's (ASK) program's mission to disrupt the school to prison pipeline through near peer tutoring and mentorship with formerly adjudicated youth in DC. My thoughtless attempt to make a few bucks on the side quickly turned into finding community both on campus and in the greater DC area. I felt so connected to the program's mission that I found myself volunteering to plan events and serve on center-wide committees at every chance I got. The work was fulfilling because it was mission-driven--- I saw the tangible impact I had on the communities that I spent so much time in, and this motivated me to work towards my goal even more.
+
+I worked with the A.S.K. Program for the duration of my time at Georgetown, assuming numerous leadership roles. I simultaneously made my way through Georgetown's rigorous math curriculum, often feeling isolated as one of two or three Black students in the majority of my classes. I loved math as much as that eager 8-year old in the lunchroom, but there was no amount of hard work that could surmount the lack of community and institutional/interpersonal barriers in place for me at a PWI. I also felt out of touch with the increasingly theoretical nature of the courses I took towards the end of my degree. With graduation quickly approaching and the onset of the Covid-19 global pandemic, I had a choice to make. I could pursue fulfilling, nonprofit work that did not exercise my math brain or I could begin a career where I felt out of place and disconnected from the work I did every day.
+
+I spent almost a year after graduation working at the Bridge to Enter Advanced Mathematics (BEAM), a nonprofit focused on creating pathways to STEM careers for underserved students in NYC and LA. My time at BEAM furthered my understanding of the systemic shortcomings and outdated policies that create and maintain the gap in resources, opportunities, and outcomes for students from historically marginalized groups. One on one work with individual people is extremely important but my entire career trajectory changed once I realized that it was possible to combine my passion for math and investment in social justice by pursuing a data science career. Data science allows me to take a quantitative approach to the same populations that are equally supported by the student-facing work I did throughout undergrad and at BEAM.
+
+-   Need a few sentences to tie it all together here \*
