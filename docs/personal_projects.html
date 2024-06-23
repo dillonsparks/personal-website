@@ -38,6 +38,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -116,8 +118,7 @@ ul.task-list li input[type="checkbox"] {
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
   <ul>
-  <li><a href="#cooking" id="toc-cooking" class="nav-link active" data-scroll-target="#cooking">Cooking</a></li>
-  <li><a href="#photography" id="toc-photography" class="nav-link" data-scroll-target="#photography">Photography</a></li>
+  <li><a href="#photography" id="toc-photography" class="nav-link active" data-scroll-target="#photography">Photography</a></li>
   <li><a href="#basketball" id="toc-basketball" class="nav-link" data-scroll-target="#basketball">Basketball</a></li>
   </ul>
 </nav>
@@ -135,11 +136,6 @@ ul.task-list li input[type="checkbox"] {
 </header> 
       <div class="about-contents"><main class="content" id="quarto-document-content">
 
-<section id="cooking" class="level3">
-<h3 data-anchor-id="cooking">Cooking</h3>
-<p>Some of my fondest childhood memories are centered around food. In particular, I loved the holidays because my grandmother would cook tons of her famous arroz con gandules, a.k.a. yellow rice and peas.</p>
-<p><strong>Insert recipe here</strong></p>
-</section>
 <section id="photography" class="level3">
 <h3 data-anchor-id="photography">Photography</h3>
 <p>I enjoy taking pictures because it is a great way to record history and savor memories. My Instax Mini Evo Hybrid is pretty cool because it can print pictures out on film <em>and</em> upload digital pictures to a computer. I am very new to photography and by no means an expert– I just do it because it’s fun! Here are three pictures I took in the last few months:</p>
@@ -179,9 +175,14 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="basketball" class="level3">
 <h3 data-anchor-id="basketball">Basketball</h3>
+<p>I have been a huge basketball fan since I started playing around the age of 6.</p>
+<video width="500" height="360" controls="">
+<source src="img/game_winner.mp4" type="video/mp4">
+<p>Your browser does not support the video tag </p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="game_winner.mp4"></video></div>
 
 
-</section>
+</video></section>
 </main></div>
     </div>
   </div>
@@ -414,6 +415,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 

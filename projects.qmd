@@ -3,38 +3,34 @@ title: "Projects"
 about: 
   id: alma
   template: solana
-  image: img/profile.jpeg
   links: 
     - icon: share
-      text: Project 1
+      text: NYC DOE Student Demographics Project
       href: https://dillonsparks.github.io/education/
     - icon: share
-      text: Project 2
+      text: Columbia DSI Scholars Project
       href: https://datascience.columbia.edu/research/columbia-dsi-scholars/
     - icon: share
-      text: Project 3
-      href: https://github.com/dillonsparks/fruit
-    - icon: share 
-      text: Project 4
-      href: https://github.com/dillonsparks/fruit
+      text: UseRinfoboard dashboard
+      href: https://rconf.gitlab.io/userinfoboard/
 ---
 
-## Project 1
+## NYC DOE Student Demographics Project
 Education project description
 ** clean it up and then link the final outcome ** 
 
 
-## Project 2
+## Columbia DSI Scholars Project
 DSI Scholars & SEED data 
 ** add a short description of the project, focusing on specific skills and technologies I used ** 
 
 
-## Project 3
+## UseRinfoboard Dashboard
 Project with Dr. Robbins about NYC education 
 
-
+```{r, echo=FALSE}
 ## Project 4
-Capstone project 
-** reach out to AJ to see what I can publish ** 
+# need a project where I build and end to end pipeline/model ** 
+```
 
-** need a project where I build and end to end pipeline/model ** 
+
