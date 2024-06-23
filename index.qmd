@@ -6,9 +6,9 @@ about:
   image: img/tlps-2257.jpg
   image-width: 500px
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dillonsparks1/
     - icon: github
       text: Github
       href: https://github.com/dillonsparks
@@ -18,7 +18,7 @@ about:
 :::{#alma}
 
 
-My name is Dillon Sparks and I am an aspiring data scientist. I use data to tell stories that promote educational, racial, and economic equity. I am currently searching for a data analyst or data scientist role, preferably in the social impact sector, to draw on my extensive nonprofit and education work experience in addition to my data analysis, visualization, and machine learning skills. I carefully curated this online space to share my professional mission, academic accomplishments, professional endeavors, and hobbies/interests with prospective employers and friends alike. The code for this website can be found on my [GitHub page](https://github.com/dillonsparks/personal-website)
+My name is Dillon Sparks and I am an aspiring data scientist. I use data to tell stories that promote educational, racial, and economic equity. Since finishing my Master's program at Columbia, I have spent the last 6 months doing independent contractor and freelance work  I am currently searching for a data analyst or data scientist role, preferably doing something related to social impact, to draw on my extensive nonprofit and education work experience in addition to my data analysis, visualization, and machine learning skills. I carefully curated this online space to share my professional mission, academic accomplishments, professional endeavors, and hobbies/interests with prospective employers and friends alike. The code for this website can be found on my [GitHub page](https://github.com/dillonsparks/personal-website)
 
 :::
 
@@ -36,12 +36,12 @@ Languages: R | Python | SQL |  HTML | LaTeX | CSS
 
 Skills: Data Analysis & Visualization | Statistical Inference | Data Wrangling | Machine Learning | NLP | Dashboarding
 
-Technologies: Git | Salesforce | Flourish | Microsoft Excel | Microsoft Office | Tableau | PostgreSQL
+Technologies: Git | Jupyter | Salesforce | Flourish | Microsoft Excel | Microsoft Office | Tableau | PostgreSQL
 
 
 ### Experience
 
-Bridge to Enter Advanced Mathematics | Summer Away Co-Site Director | New York, NY | Jun 2022 - Jul 2022, May 2024 - present
+Bridge to Enter Advanced Mathematics | Summer Away Site Director | New York, NY | Jun 2022 - Jul 2022, May 2024 - present
 
 City University of New York (CUNY) School of Professional Studies (SPS) | Non-Teaching Adjunct Faculty | New York, NY | Apr 2024 - present
 
@@ -70,6 +70,6 @@ Georgetown University Center for Social Justice  | After School Kids (A.S.K.) Pr
 
 
 
-```{r echo=FALSE, out.height="750px", out.width='500px', fig.align = "center", fig.cap="Here is my resume for those who would like to hear more about my previous work experiences. Please feel free to download it if you'd like!"}
+```{r echo=FALSE, out.height="750px", out.width='500px', fig.align = "center", fig.cap="Here is my resume for those who would like to hear more about my previous work experiences. Please feel free to download it!"}
 knitr::include_graphics("img/CV.pdf")
 ```
