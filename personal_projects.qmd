@@ -8,6 +8,7 @@ about:
 
 ### Photography 
 I enjoy taking pictures because it is a great way to record history and savor memories. My Instax Mini Evo Hybrid is pretty cool because it can print pictures out on film *and* upload digital pictures to a computer. I am very new to photography and by no means an expert-- I just do it because it's fun! Here are three pictures I took in the last few months: 
+&nbsp;  
 
 ```{r echo=FALSE, out.height="750px", out.width='500px', fig.align = "center", fig.cap="Amber, the 10-week old mini-poodle, on her first picnic in Central Park"}
 knitr::include_graphics("img/Amber.jpg")
@@ -28,16 +29,18 @@ knitr::include_graphics("img/Skansen.jpg")
 
 
 ### Basketball
-I have been a huge basketball fan since I started playing around the age of 6. 
+I have been a huge basketball fan since I started playing around the age of 6. More recently, I spent two years as a practice player and member of the data team for the Columbia University Women's Basketball team. I'm so grateful for the opportunity to be a part of the historic seasons that the Lions had in 2022-23 and 2023-24. Here are a few pictures from last season:
+&nbsp;  
 
+```{r echo=FALSE, out.height="300px", out.width='500px', fig.align = "center", fig.cap="Abbey Hsu, 2024 Ivy League Player of the Year "}
+knitr::include_graphics("img/abbey.jpg")
+```
+&nbsp;  
 
-<video width="500" height="360" controls>
-  <source src="img/game_winner.mp4" type="video/mp4">
-  Your browser does not support the video tag
-</video>
-
-
-
+```{r echo=FALSE, out.height="400px", out.width='500px', fig.align = "center", fig.cap="Warmups before the Lions' 67-65 victory over the #25 Princeton Tigers"}
+knitr::include_graphics("img/scout_squad.jpg")
+```
+&nbsp;  
 
 ### Data Democratization 
 
